@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rscothern/rscothern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I lost access to my old account, and I really wanted to do [Advent of Code](https://adventofcode.com/2024) this year..
+
+## Past work
+ - OpenSSH at Facebook scale: https://github.com/RichardScothern/FBOpenSSH-1
+ - Docker + Docker Registry
+    - https://github.com/RichardScothern/distribution    
