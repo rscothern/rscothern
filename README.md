@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 I lost access to my old account, and I really wanted to do [Advent of Code](https://adventofcode.com/2024) this year..
 
 ## Past work
- - OpenSSH at Facebook scale: https://github.com/RichardScothern/FBOpenSSH-1
+ - OpenSSH Facebook patches: https://github.com/RichardScothern/FBOpenSSH-1
  - Docker + Docker Registry
     - https://github.com/RichardScothern/distribution    
